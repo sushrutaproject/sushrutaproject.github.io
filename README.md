@@ -1,11 +1,13 @@
-# A Critical Edition of the _Suśrutasaṃhitā_ Based on the Earliest Nepalese Manuscripts
+# A Critical Edition and Study of the _Suśrutasaṃhitā_ Based on the Earliest Nepalese Manuscripts
 
-[![DOI](https://zenodo.org/badge/305195084.svg)](https://zenodo.org/badge/latestdoi/305195084)
+## The two projects
 
-This is the repository for the manuscript transcriptions and editions created as part of the [Sushruta Project](http://sushrutaproject1.github.io), q.v. for the full details.
+The websites for the two projects can be viewed here:
 
+* [Suśruta Project 1 (2020-2024)](http://sushrutaproject1.github.io)
+* [Suśruta Project 2 (2025-2025)](http://sushrutaproject2.github.io)
 
-This repository is currently maintained by Dominik Wujastyk. 
+One of the main outputs from the first project was the digital edition of the Nepalese _Suśrutasaṃhitā_.
 
 ## Reading the edition
 
@@ -19,7 +21,7 @@ These two interfaces present the same _Suśrutasaṃhitā_ edition derived from 
 
 ## Draft translation
 
-* The *Draft Translation* of selected adhyāyas (updated twice weekly): [PDF](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true)
+* The *Draft Translation* of selected adhyāyas (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true)
 
 ## Diplomatic transcription of MS Kathmandu Kaiser Library 699 with facing manuscript images
 
@@ -35,7 +37,7 @@ These two interfaces present the same _Suśrutasaṃhitā_ edition derived from 
 
 The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io).
 
-At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).
+At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
 
 The successor project, “The Compendium of Suśruta in Time and Space” (2025-2029) can be accessed on the [Project 2 website](http://sushrutaproject2.github.io).
 
