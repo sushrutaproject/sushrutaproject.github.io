@@ -5,7 +5,7 @@
 The websites for the two projects can be viewed here:
 
 * [Suśruta Project 1 (2020-2024)](http://sushrutaproject1.github.io)
-* [Suśruta Project 2 (2025-2025)](http://sushrutaproject2.github.io)
+* [Suśruta Project 2 (2025-2029)](http://sushrutaproject2.github.io)
 
 One of the main outputs from the first project was the digital edition of the Nepalese _Suśrutasaṃhitā_.
 
