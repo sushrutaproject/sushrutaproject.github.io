@@ -11,7 +11,7 @@ One of the main outputs from the first project was the digital edition of the Ne
 
 ## Reading the edition
 
-The provisional edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://saktumiva.org), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. 
+The provisional edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. 
 
 There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
 *  [Suśrutasaṃhitā edition table of contents (Saktumiva 1.0)](https://wujastyk.github.io/Saktumiva1/).
