@@ -1,29 +1,23 @@
-# A Critical Edition and Study of the _Suśrutasaṃhitā_ Based on the Earliest Nepalese Manuscripts
+# Critical Study of the _Suśrutasaṃhitā_ Based on the Earliest Nepalese Manuscripts
 
-## The two projects
+## What would you like to do?
 
-The websites for the two projects can be viewed here:
+### Read the draft translation
 
-* [Project 1: "The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence" (2020-2024)](http://sushrutaproject1.github.io)
-* [Project 2: "The Compendium of Suśruta in Time and Space" (2025-2029)](http://sushrutaproject2.github.io)
+* The *Draft Translation* of selected adhyāyas (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
 
-One of the main outputs from the first project was the digital edition of the Nepalese _Suśrutasaṃhitā_.
+### Read the Sanskrit text of _Suśruta's Compendium_ in its Nepalese Version 
 
-## Reading the edition
+The online digital edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
 
-The provisional edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. 
+  1.  [Table of contents (Saktumiva 1.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/).
+  2.  [Table of contents (Saktumiva 2.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/)
 
-There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
-*  [Suśrutasaṃhitā edition table of contents (Saktumiva 1.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/).
-*  [Suśrutasaṃhitā edition table of contents (Saktumiva 2.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/)
+These two interfaces present the same _Suśrutasaṃhitā_ edition derived from the same manuscript witnesses, but their interfaces have different affordances, especially for editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their particular strengths.  Version 2.0 is still in development (Feb 2026).
 
-These two interfaces present the same _Suśrutasaṃhitā_ edition derived from the same manuscript transcriptions, but their interfaces offer different affordances, especially for editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their particular strengths.  Version 2.0 is still in development (Feb 2026).
+### See images of the oldest manuscript and its transcription
 
-## Draft translation
-
-* The *Draft Translation* of selected adhyāyas (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true)
-
-## Diplomatic transcription of MS Kathmandu Kaiser Library 699 with facing manuscript images
+The diplomatic transcription of [MS Kathmandu Kaiser Library 699](https://panditproject.org/entity/102306/manuscript) with facing manuscript images:
 
   1. [Sūtrasthāna](https://wujastyk.github.io/sushrutaproject/xml/01-su.su/kl_699_sutrasthana.xml)
   2. [Nidānasthāna](https://wujastyk.github.io/sushrutaproject/xml/02-su.ni/kl_699_nidanasthana.xml). Missing from KL 699 except for part of the last adhyāya.
@@ -33,16 +27,24 @@ These two interfaces present the same _Suśrutasaṃhitā_ edition derived from 
   6. [Uttaratantra](https://wujastyk.github.io/sushrutaproject/xml/06-su.ut/kl_699_uttaratantra.xml).
 
 
+
+### Read about the two projects
+
+The websites for the two projects can be viewed here:
+
+* [Project 1: "The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence" (2020-2024)](http://sushrutaproject1.github.io)
+* [Project 2: "The Compendium of Suśruta in Time and Space" (2025-2029)](http://sushrutaproject2.github.io)
+
+
 ## Project completion
 
-The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io).
+The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io). At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
 
-At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
-
-The successor project, “The Compendium of Suśruta in Time and Space” (2025-2029) can be accessed on the [Project 2 website](http://sushrutaproject2.github.io).
+The team working on the successor project, “The Compendium of Suśruta in Time and Space” (2025-2029) is currently hard at work (February 2026).
 
 
 ### Copyright and Licensing
+
 All files in this Github repository are copyrighted (C) Dominik Wujastyk 2021.  They are distributed under a  [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence.
 
 
