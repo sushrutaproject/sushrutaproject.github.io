@@ -2,11 +2,11 @@
 
 ## What would you like to do?
 
-### Read the draft translation
+### 👉 Read the draft translation
 
 * The *Draft Translation* of selected adhyāyas (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
 
-### Read the Sanskrit text of _Suśruta's Compendium_ in its Nepalese Version 
+### 👉 Read the Sanskrit text of _Suśruta's Compendium_ in its Nepalese Version 
 
 The online digital edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
 
@@ -15,7 +15,7 @@ The online digital edition of the Nepalese _Suśrutasaṃhitā_ is published usi
 
 These two interfaces present the same _Suśrutasaṃhitā_ edition derived from the same manuscript witnesses, but their interfaces have different affordances, especially for editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their particular strengths.  Version 2.0 is still in development (Feb 2026).
 
-### See images of the oldest manuscript and its transcription
+### 👉 See images of the oldest manuscript and its transcription
 
 The diplomatic transcription of [MS Kathmandu Kaiser Library 699](https://panditproject.org/entity/102306/manuscript) with facing manuscript images:
 
@@ -28,7 +28,7 @@ The diplomatic transcription of [MS Kathmandu Kaiser Library 699](https://pandit
 
 
 
-### Read about the two projects
+### 👉 Read about the two projects
 
 The websites for the two projects can be viewed here:
 
