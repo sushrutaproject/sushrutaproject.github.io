@@ -1,16 +1,16 @@
 
 ![Image](assets/img/699-8v.png){: width="50%" style="float: left; margin-right: 2em;"} 
-This is a project focussed on the critical study of the _Compendium of Suśruta_ (Sanskrit _Suśrutasaṃhitā_, सुश्रुतसंहिता), a medical encyclopedia composed two millennia ago.  The project is based on studying the earliest surviving  manuscripts of the work.
+This is a project focussed on the critical study of the _Compendium of Suśruta_ (Sanskrit सुश्रुतसंहिता), a medical encyclopedia composed two millennia ago.  The project is based on studying the earliest surviving  manuscripts of the work.
 
 ## What would you like to do?
 
 ### 👉 Read the draft translation
 
-* The *Draft Translation* of selected adhyāyas (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
+* The *Draft Translation* of selected chapters (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
 
 ### 👉 Read the Sanskrit text of _Suśruta's Compendium_ in its Nepalese Version 
 
-The online digital edition of the Nepalese _Suśrutasaṃhitā_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
+The online digital edition of the Nepalese version of the _Compendium of Suśruta_ is published using [Saktumiva](https://chchch.github.io/saktumiva/docs/), a system written by [Dr Charles Li](https://orcid.org/0000-0001-8247-9374) for editing and publishing Sanskrit critical editions. There are two major releases of Saktumiva, 1.0 and 2.0 (in development, Feb 2026).  You can read the edition of the _Suśrutasaṃhitā_ through either interface.
 
   1.  [Table of contents (Saktumiva 1.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/).
   2.  [Table of contents (Saktumiva 2.0)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/)
@@ -19,7 +19,7 @@ These two interfaces present the same _Suśrutasaṃhitā_ edition derived from 
 
 ### 👉 See images of the oldest manuscript and its transcription
 
-The diplomatic transcription of [MS Kathmandu Kaiser Library 699](https://panditproject.org/entity/102306/manuscript) with facing manuscript images:
+The diplomatic transcription of the oldest surviving manuscript, [MS Kathmandu Kaiser Library 699](https://panditproject.org/entity/102306/manuscript), with facing manuscript images:
 
   1. [Sūtrasthāna](https://wujastyk.github.io/sushrutaproject/xml/01-su.su/kl_699_sutrasthana.xml)
   2. [Nidānasthāna](https://wujastyk.github.io/sushrutaproject/xml/02-su.ni/kl_699_nidanasthana.xml). Missing from KL 699 except for part of the last adhyāya.
