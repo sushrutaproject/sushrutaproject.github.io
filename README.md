@@ -1,5 +1,5 @@
 
-This is a project focussed on the critical study of the _Compendium of Suśruta_ (Sanskrit _Suśrutasaṃhitā_), a large encyclopedia of medicine composed two millennia ago, based on the earliest surviving  manuscripts of the work.
+This is a project focussed on the critical study of the _Compendium of Suśruta_ (Sanskrit _Suśrutasaṃhitā_, सुश्रुतसंहिता), a large encyclopedia of medicine composed two millennia ago, based on the earliest surviving  manuscripts of the work.
 
 ## What would you like to do?
 
