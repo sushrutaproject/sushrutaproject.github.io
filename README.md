@@ -1,4 +1,5 @@
-# Critical Study of the _Suśrutasaṃhitā_ Based on the Earliest Nepalese Manuscripts
+
+This is a project focussed on the critical study of the _Suśrutasaṃhitā_ based on the earliest Nepalese manuscripts.
 
 ## What would you like to do?
 
