@@ -1,5 +1,5 @@
 
-This is a project focussed on the critical study of the _Suśrutasaṃhitā_ based on the earliest Nepalese manuscripts.
+This is a project focussed on the critical study of the _Compendium of Suśruta_ (Sanskrit _Suśrutasaṃhitā_), a large encyclopedia of medicine composed two millennia ago, based on the earliest surviving  manuscripts of the work.
 
 ## What would you like to do?
 
@@ -37,11 +37,11 @@ The websites for the two projects can be viewed here:
 * [Project 2: "The Compendium of Suśruta in Time and Space" (2025-2029)](http://sushrutaproject2.github.io)
 
 
-## Project completion
+## Project 1 completion
 
 The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io). At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
 
-The team working on the successor project, “The Compendium of Suśruta in Time and Space” (2025-2029) is currently hard at work (February 2026).
+The team focussed on the successor project, “[The Compendium of Suśruta in Time and Space](http://sushrutaproject2.github.io)” (2025-2029) is currently hard at work (February 2026).
 
 
 ### Copyright and Licensing
