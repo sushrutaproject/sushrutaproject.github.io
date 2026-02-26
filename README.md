@@ -1,6 +1,7 @@
 
-![Image](assets/img/699-8v.png){: width="50%" style="float: left; margin-right: 2em;"} 
+![Image](assets/img/699-8v.jpg){: width="50%" style="float: left; margin-right: 2em;"} 
 This is a project focussed on the critical study of the earliest manuscripts of the _Compendium of Suśruta_, a medical encyclopedia composed in Sanskrit two millennia ago.  
+<br>
 
 ## What would you like to do?
 
