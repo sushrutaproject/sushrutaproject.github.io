@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1161141464.svg)](https://doi.org/10.5281/zenodo.18868988)
+
+###
 ![Image](assets/img/699-8v.jpg){: width="50%" style="float: left; margin-right: 2em;"} 
 This is a project focussed on the critical study of the earliest manuscripts of the _Compendium of Suśruta_, a medical encyclopedia composed in Sanskrit two millennia ago.  
 <br>
@@ -46,8 +49,8 @@ The team focussed on the successor project, “[The Compendium of Suśruta in Ti
 
 This page is archived at Zenodo and can be cited as follows:
 
-* Dominik Wujastyk. (2026). "sushrutaproject/sushrutaproject.github.io: archived to Zenodo (1.1)". Zenodo. [![DOI](https://zenodo.org/badge/1161141464.svg)](https://doi.org/10.5281/zenodo.18868988)
+* Dominik Wujastyk. (2026). "sushrutaproject/sushrutaproject.github.io: archived to Zenodo (1.1)". Zenodo. [https://doi.org/10.5281/zenodo.18868989](https://doi.org/10.5281/zenodo.18868989)
 
-##### Copyright and Licensing
+#### Copyright and Licensing
 
 All files in this Github repository are copyrighted (C) Dominik Wujastyk 2021.  They are distributed under a  [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence.
