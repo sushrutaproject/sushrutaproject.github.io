@@ -1,6 +1,5 @@
-[![DOI](https://zenodo.org/badge/1161141464.svg)](https://doi.org/10.5281/zenodo.18868988)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18868989.svg)](https://doi.org/10.5281/zenodo.18868989)
 
-###
 ![Image](assets/img/699-8v.jpg){: width="50%" style="float: left; margin-right: 2em;"} 
 This is a project focussed on the critical study of the earliest manuscripts of the _Compendium of Suśruta_, a medical encyclopedia composed in Sanskrit two millennia ago.  
 <br>
