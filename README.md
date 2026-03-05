@@ -33,23 +33,24 @@ The diplomatic transcription of the oldest surviving manuscript, [MS Kathmandu K
 
 ### 👉 Read about the two projects
 
+#### Project 2 (2025-2029)
+
+* [Project 2: "The Compendium of Suśruta in Time and Space"](http://sushrutaproject2.github.io)
+
+The team focussed on the current project, “[The Compendium of Suśruta in Time and Space](http://sushrutaproject2.github.io)” (2025-2029) is hard at work (March 2026).  Read the project [blog posts](https://sushrutaproject2.github.io/blog/) for news.
+
 #### Project 1 (2020-2024)
 
 * [Project 1: "The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence"](http://sushrutaproject1.github.io)
 
 The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io). At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
 
-#### Project 2 (2025-2029)
-* [Project 2: "The Compendium of Suśruta in Time and Space"](http://sushrutaproject2.github.io)
-
-The team focussed on the successor project, “[The Compendium of Suśruta in Time and Space](http://sushrutaproject2.github.io)” (2025-2029) is currently hard at work (February 2026).  Read the project [blog posts](https://sushrutaproject2.github.io/blog/) for news.
-
 
 #### Citation and archiving
 
 This page is archived at Zenodo and can be cited as follows:
 
-* Dominik Wujastyk. (2026). "sushrutaproject/sushrutaproject.github.io: archived to Zenodo (1.1)". Zenodo. [https://doi.org/10.5281/zenodo.18868989](https://doi.org/10.5281/zenodo.18868989)
+* Dominik Wujastyk. (2026). "The Suśruta Project: Starting Page". Zenodo. https://doi.org/10.5281/zenodo.18868989
 
 #### Copyright and Licensing
 
