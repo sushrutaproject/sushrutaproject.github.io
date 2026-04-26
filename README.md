@@ -9,7 +9,7 @@ This is a project focussed on the critical study of the earliest manuscripts of 
 
 ### 👉 Read the draft translation
 
-* The *Draft Translation* of selected chapters (updated twice weekly): [Free PDF download](https://github.com/wujastyk/sushrutaproject/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
+* The *Draft Translation* of selected chapters (updated twice weekly): [Free PDF download](https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1/raw/main/translation/incremental_SS_Translation.pdf?raw=true).
 
 ### 👉 Read the Sanskrit text of _Suśruta's Compendium_ in its Nepalese Version 
 
