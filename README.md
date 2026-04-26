@@ -43,12 +43,12 @@ The first Suśruta Project came to an end in April 2024.  Project publications i
 ------
 
 
-#### Citation and archiving
+##### Citation and archiving
 
 This page is archived at Zenodo and can be cited as follows:
 
 * Dominik Wujastyk. (2026). "The Suśruta Project: Starting Page". Zenodo. [http://sushrutaproject.github.io](http://sushrutaproject.github.io), archived at  [https://doi.org/10.5281/zenodo.18868989](https://doi.org/10.5281/zenodo.18868989)
 
-#### Copyright and Licensing
+##### Copyright and Licensing
 
 All files in this Github repository are copyrighted (C) Dominik Wujastyk 2021.  They are distributed under a  [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence.
