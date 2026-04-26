@@ -38,7 +38,7 @@ The team focussed on the current project, “[The Compendium of Suśruta in Time
 
 * [Project 1: "The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence"](http://sushrutaproject1.github.io)
 
-The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io). At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026) [DOI](https://doi.org/10.18732/hssa122).  Another project book is under consideration with a publisher.
+The first Suśruta Project came to an end in April 2024.  Project publications in print and digital media can be accessed from [Project Outputs](https://sushrutaproject1.github.io/project-outputs/) on the  main [Project 1 website](http://sushrutaproject1.github.io).  The project's first monograph, *On the Plastic Surgery of the Ears and Nose. The Nepalese Version of the Suśrutasaṃhitā* (2023, [DOI](https://doi.org/10/hbph7d)) is available in print and as a free PDF.  At the time of writing (Feb 2026) work continues on writing and publishing project results.  The most recent publication is Brooks, "“On Leeches” in a Medical Treatise for Humans," (2026, [DOI](https://doi.org/10.18732/hssa122)).  Another project book is under consideration with a publisher.
 
 ------
 
