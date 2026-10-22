@@ -1,3 +1,14 @@
-remote_theme: pages-themes/slate@v0.2.0
+# Site settings for sushrutaproject.github.io
+title: The Suśruta Project
+description: A project on the ancient medical literature of India
+url: https://sushrutaproject.github.io
+lang: en
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag   # page titles, descriptions and social-media cards
+
+# Files that should not become web pages
+exclude:
+  - README.md
+  - LICENSE
+  - "see images of the oldest MS.md"

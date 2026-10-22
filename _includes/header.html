@@ -1,0 +1,14 @@
+{% assign here = page.url | absolute_url %}
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Main">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+      <span class="brand-name">{{ site.title }}</span>
+    </a>
+    <ul class="nav-links">
+      {% for item in site.data.navigation %}
+      <li><a href="{{ item.url }}"{% if item.url == here %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

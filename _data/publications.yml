@@ -1,0 +1,11 @@
+# "Recent publications" on the home page, newest first.
+# Copy a block to add a new item. Markdown (*italics*) works in "title".
+
+- title: Brooks, “‘On Leeches’ in a Medical Treatise for Humans”
+  year: 2026
+  doi: https://doi.org/10.18732/hssa122
+
+- title: "*On the Plastic Surgery of the Ears and Nose. The Nepalese Version of the Suśrutasaṃhitā*"
+  year: 2023
+  note: print and free PDF
+  doi: https://doi.org/10/hbph7d
